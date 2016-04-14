@@ -43,7 +43,7 @@
 
 #### For System Minimum Requirements and installation procedures, visit the Apache BigTop v1.1 on IBM SoftLayer Ubuntu 14.04 Quick Start guide located in the /docs directory.
 
-https://github.com/ibmsoe/bigtop/docs
+https://github.com/ibmsoe/bigtop/docs/IBM SoftLayer BigTop Quick Start_v1.4.docx
 
 # Documentation
 Documentation is available in the docs/ directory.

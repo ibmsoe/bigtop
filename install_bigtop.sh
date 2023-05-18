@@ -118,5 +118,3 @@ sudo -u hdfs hdfs dfs -chown -R zeppelin /user/zeppelin
 sudo rm /etc/zeppelin/conf.dist/interpreter.json
 #rm -rf source
 sudo service zeppelin restart
-
-
